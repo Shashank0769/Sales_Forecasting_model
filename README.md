@@ -36,3 +36,6 @@ School Holiday: School holiday status (1 = Yes, 0 = No)
 Visualization:
 Displays past 10 days of sales trends.
 Highlights predicted sales for easy comparison.
+
+
+You can checkout for the model UI in : https://streamlisales-d89nsrizfs8zzkgq9ydqwb.streamlit.app/
