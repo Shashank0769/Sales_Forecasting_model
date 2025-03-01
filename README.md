@@ -38,9 +38,10 @@ Displays past 10 days of sales trends.
 Highlights predicted sales for easy comparison.
 
 **Preview**
-![Screenshot (423)](https://github.com/user-attachments/assets/5b4a9e0a-b08b-4983-bfc6-3930b74e5a54)
-![Screenshot (424)](https://github.com/user-attachments/assets/660beb4e-6ad4-40e8-8609-46eb993a288a)
-![Screenshot (425)](https://github.com/user-attachments/assets/cd981059-22a6-4e9a-83cd-2c524558ff45)
+![1](https://github.com/user-attachments/assets/924a08f5-20b1-47e8-9e99-677247628662)
+![2](https://github.com/user-attachments/assets/f4d68958-d3a6-472a-9948-b48fabe3fe8d)
+![3](https://github.com/user-attachments/assets/e33beb90-fbce-43f9-92d2-1034f3fd561e)
+
 
 
 You can checkout for the model UI in : https://streamlisales-d89nsrizfs8zzkgq9ydqwb.streamlit.app/
